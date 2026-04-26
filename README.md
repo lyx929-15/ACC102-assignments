@@ -38,3 +38,21 @@ pip install pandas matplotlib wrds
 # Run the script (assuming filename: tesla_analysis.py)
 python tesla_analysis.py
 
+
+## 6. Product / Demo
+
+**Code & Analysis**: See `tesla_analysis.ipynb` for the full implementation.
+
+**Key Visualization** – TSLA Closing Price (2020–2023):
+
+![TSLA Price Chart](figures/tsla_price.png)
+
+## 7. Limitations & next steps
+
+**Limitations**:
+- Data only through 2023, not covering 2024–2025
+- No comparison with other EV peers
+
+**Next Steps**:
+- Add moving averages and volume analysis
+- Compare with S&P 500 index
